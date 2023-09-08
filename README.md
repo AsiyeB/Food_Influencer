@@ -1,1 +1,4 @@
 # Food_Influencer
+
+In this project, two Persian food influencers are chosen. We want to divide their posts into 2 groups: 1. with details, 2. without details(by "details" we mean whether a post has detail keywords we defined) and then each of these groups to 2 other groups based on having negative or positive keywords we defined. At the end we wll end up having these 4 post groups: 1. with details and positive, 2. without details and positive, 3. with details and negative, 4. without details and negative. Then for these groups we'll calculate following measures: 1. positive comments ratio, 2. number of likes to followers, 3. number of comments to followers.
+At the end we made some conclusions by interpreting and comparing these measures considering all groups. If you are interested, here is the article link: doi link.
